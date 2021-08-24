@@ -18,8 +18,3 @@ function drag(id){
 	}
 	return false;
 }
-
-function(){
-	console.log(111)
-	console.log(222)
-}
